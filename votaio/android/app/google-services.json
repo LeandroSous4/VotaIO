@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "894029707599",
+    "firebase_url": "https://vota-io.firebaseio.com",
+    "project_id": "vota-io",
+    "storage_bucket": "vota-io.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894029707599:android:e0a459c7c3b2dd71",
+        "android_client_info": {
+          "package_name": "com.example.votaio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894029707599-rojvepaer4hvkqhn8g5l5pbdsa9tq8hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3nYjlhjowbPbuKjHQj0hN1zO71zYChc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
